@@ -1,7 +1,7 @@
 {
-  "title": "Erverted",
-  "url": "https://https://github.com/magicmitra/",
-  "description": "Backend Wizard.",
+  "title": "Erverted Blog",
+  "url": "https://tp-mitra-blog.netlify.com/",
+  "description": "Wizard.",
   "feed": {
     "subtitle": "Initiate spells.",
     "filename": "feed.xml",
@@ -10,7 +10,7 @@
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Erv",
+    "email": "EMitra@talentpath.com"
   }
 }
