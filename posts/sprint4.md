@@ -1,4 +1,4 @@
-**Slice it Sprint 3**
+**Slice it Sprint 4**
 -------------------------------------------------------------------------------
 **Worked On**
 - Made the ingestion pipes more robust, creating time locks. More functions 
